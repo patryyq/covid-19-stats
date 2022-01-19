@@ -1,0 +1,33 @@
+.closeMoreOptions {
+  top: 4rem;
+  right: 2rem;
+}
+
+.closeMoreOptions svg {
+  padding: 0.12em;
+  background: #fff;
+  border-radius: 50em;
+}
+
+.high {
+  top: 2rem;
+  right: 2em;
+}
+
+.low {
+  top: 5rem;
+  right: 2rem;
+}
+
+.low svg,
+.high svg,
+.closeMoreOptions svg {
+  font-size: 2.4rem;
+}
+
+.low,
+.high,
+.closeMoreOptions {
+  position: absolute;
+  z-index: 1340;
+}

@@ -1,0 +1,16 @@
+.leaflet-popup-content-wrapper {
+    border-radius: 10px;
+    background: #000;
+    color: #fff;
+}
+
+  
+.leaflet-popup-tip {
+    background: #000;
+}
+
+.leaflet-tooltip {
+  background: #000;
+  border: none;
+  color: #fff;
+}
